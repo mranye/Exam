@@ -14,7 +14,23 @@
 
 #### 部分界面截图
 
-![](file:///E:\javaEE\tupian\stulogin1.png)
+![image](http://wx4.sinaimg.cn/mw690/83023f86ly1fgzupl6373j207k059aad.jpg  "学生登录")
+</br></br>
+
+![image](http://wx3.sinaimg.cn/mw690/83023f86ly1fgzupktqnrj20b508eq3q.jpg  "学生核对信息")
+</br></br>
+
+![image](http://wx4.sinaimg.cn/mw690/83023f86ly1fgzupk4qqlj20an0emabt.jpg  "限时考试")
+</br></br>
+
+![image](http://wx1.sinaimg.cn/mw690/83023f86ly1fgzupkfqsmj20ji0dvq4d.jpg  "查看成绩错题")
+</br></br>
+
+![image](http://wx2.sinaimg.cn/mw690/83023f86ly1fgzupllmwjj207j059wes.jpg  "教师登录")
+</br></br>
+
+![image](http://wx4.sinaimg.cn/mw690/83023f86ly1fgzuplx00qj20dy08edgo.jpg  "教师增删改学生信息")
+</br></br>
 
 
 

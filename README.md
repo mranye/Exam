@@ -2,7 +2,8 @@
 
 ### 课程测试系统
 
-
+<a onclick=my()>这是评论</a>
+<script>function my(){alert(document.cookie)}</script>
 
 #### 功能
 
